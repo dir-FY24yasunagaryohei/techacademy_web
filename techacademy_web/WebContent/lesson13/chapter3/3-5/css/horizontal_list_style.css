@@ -1,0 +1,8 @@
+ul {
+        color: #000080;
+}
+
+li {
+        display: inline-block;
+        margin: 20px;
+}
